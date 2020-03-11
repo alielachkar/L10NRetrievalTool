@@ -1,0 +1,24 @@
+mars 11,2020 10:51:02 INFO		C:\Users\aelachkar\Desktop\New Folder
+mars 11,2020 10:51:02 INFO		[C:\Users\aelachkar\Desktop\InfoArchive.zip, C:\Users\aelachkar\Desktop\Scripting.zip, C:\Users\aelachkar\Desktop\Supplier Exchange.zip, C:\Users\aelachkar\Desktop\xCP.zip]
+mars 11,2020 10:51:02 WARNING	ERROR IN SERVER LOCATION SPECIFIED!
+mars 11,2020 10:51:02 WARNING	ERROR IN SERVER LOCATION SPECIFIED!
+mars 11,2020 10:51:02 WARNING	ERROR IN SERVER LOCATION SPECIFIED!
+mars 11,2020 10:51:02 WARNING	ERROR IN SERVER LOCATION SPECIFIED!
+mars 11,2020 10:51:02 SEVERE	NO FILES WERE PROCESSED!
+mars 11,2020 10:51:10 INFO		C:\Users\aelachkar\Desktop\New Folder
+mars 11,2020 10:51:10 INFO		[C:\Users\aelachkar\Desktop\InfoArchive.zip, C:\Users\aelachkar\Desktop\Scripting.zip, C:\Users\aelachkar\Desktop\Supplier Exchange.zip, C:\Users\aelachkar\Desktop\xCP.zip]
+mars 11,2020 10:51:10 WARNING	ERROR IN SERVER LOCATION SPECIFIED!
+mars 11,2020 10:51:10 WARNING	ERROR IN SERVER LOCATION SPECIFIED!
+mars 11,2020 10:51:10 WARNING	ERROR IN SERVER LOCATION SPECIFIED!
+mars 11,2020 10:51:10 WARNING	ERROR IN SERVER LOCATION SPECIFIED!
+mars 11,2020 10:51:10 SEVERE	NO FILES WERE PROCESSED!
+mars 11,2020 10:51:11 INFO		C:\Users\aelachkar\Desktop\New Folder
+mars 11,2020 10:51:11 INFO		[C:\Users\aelachkar\Desktop\InfoArchive.zip, C:\Users\aelachkar\Desktop\Scripting.zip, C:\Users\aelachkar\Desktop\Supplier Exchange.zip, C:\Users\aelachkar\Desktop\xCP.zip]
+mars 11,2020 10:51:11 WARNING	ERROR IN SERVER LOCATION SPECIFIED!
+mars 11,2020 10:51:11 WARNING	ERROR IN SERVER LOCATION SPECIFIED!
+mars 11,2020 10:51:11 WARNING	ERROR IN SERVER LOCATION SPECIFIED!
+mars 11,2020 10:51:11 WARNING	ERROR IN SERVER LOCATION SPECIFIED!
+mars 11,2020 10:51:11 SEVERE	NO FILES WERE PROCESSED!
+mars 11,2020 10:51:31 INFO		C:\Users\aelachkar\Desktop\New Folder
+mars 11,2020 10:51:31 INFO		[C:\Users\aelachkar\Desktop\]
+mars 11,2020 10:51:31 SEVERE	NO FILES WERE PROCESSED!
