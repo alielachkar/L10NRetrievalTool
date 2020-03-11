@@ -1,4 +1,3 @@
-====================================
 LOCALIZATION RETRIEVAL TOOL DOCUMENTATION
 ====================================
 
